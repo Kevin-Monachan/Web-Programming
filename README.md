@@ -89,9 +89,6 @@ Import the SQL file if provided before running database-related programs.
 - Database connectivity using MySQL
 - Dynamic web application development
 
-## Screenshots
-
-Add screenshots of outputs here for better understanding and lab evaluation.
 
 ## Author
 
